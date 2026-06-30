@@ -97,7 +97,7 @@ The model runs inference patch-by-patch (256×256 tiles) across the full image, 
 
 ## Literature survey
 
-`Literature_Surveys/survey_nebu/` contains the research papers used to inform the model design and preprocessing pipeline, covering prior SAR oil-spill detection approaches (Attention U-Net variants, dual-stream U-Nets, state-space models, classical classifiers, and SAR water/land separation techniques).
+`Literature_Surveys/Reference Articles/` contains the research papers used to inform the model design and preprocessing pipeline, covering prior SAR oil-spill detection approaches (Attention U-Net variants, dual-stream U-Nets, state-space models, classical classifiers, and SAR water/land separation techniques).
 
 ## License
 
